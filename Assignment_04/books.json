@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "1984",
+      "author": "George Orwell",
+      "rating": 5,
+      "genre": "Dystopian"
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "rating": 4,
+      "genre": "Classic"
+    },
+    {
+      "id": 3,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "rating": 4,
+      "genre": "Classic"
+    },
+    {
+      "id": 4,
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "rating": 3,
+      "genre": "Adventure"
+    }
+  ]
+  
